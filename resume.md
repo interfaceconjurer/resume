@@ -13,35 +13,41 @@ AI-native designer and engineer with 21 years of experience shipping product at 
 ## Experience
 
 ### Salesforce | Principal Product Designer, Developer Experience Platform
-*Jan 2024 – Present*
+
+_Jan 2024 – Present_
 
 Leading UX engineering, design systems, and cross-functional alignment across three product areas simultaneously.
 
 **Agentic Chat Harness**
-- Shipped the front end for Salesforce's agentic coding harness from beta through GA to [~100,000+] developers, designing interaction patterns directly in code using React and TypeScript
+
+- Shipped the front end for Salesforce's agentic coding harness from beta through GA to ~33K+ MAU, designing interaction patterns directly in code using React and TypeScript
 - Evolved the product from basic chat into a full agentic experience, defining the UX patterns that became the internal product category standard
-- Used AI-assisted development to prototype a complete UX redesign in one week: [18] UI patterns and a [60+-component] Storybook design system, compressing [4-6] months of work into days
-- Reduced time-to-first-project from [~20 minutes] to under 30 seconds with a zero-friction onboarding flow spanning agents, React apps, and Apex & LWC
+- Used AI-assisted development to prototype a complete UX redesign in one week: 21 UI patterns and a 60+-component Storybook design system, compressing 6 months of work into days
+- Reduced time-to-first-project from ~30 minutes to under 30 seconds with a zero-friction onboarding flow spanning agents, React apps, and Apex & LWC
 
 **Application Lifecycle Management**
-- Integrated DevOps Center with the agentic IDE through CI/CD tooling, skills, and hooks, eliminating context-switching across [8] core developer workflows
-- Championed React as a first-class platform framework, expanding the available developer talent pool by [~20x] beyond Lightning Web Component specialists
+
+- Integrated DevOps Center with the agentic IDE through CI/CD tooling, skills, and hooks, eliminating context-switching across ~8 core developer workflows
+- Championed React as a first-class platform framework, expanding the available developer talent pool to 3–5 million beyond Lightning Web Component specialists
 
 **DX Platform Architecture**
-- Used AI to rapidly model and validate information architecture for a governance layer spanning [6] agentic surfaces, aligning [8] cross-functional teams around a unified technical vision
-- Spearheaded consolidation of [6] agentic surfaces into a headless service architecture, centralizing developer tooling for improved efficiency and performance
+
+- Used AI to rapidly model and validate information architecture for a governance layer spanning 50+ agentic surfaces, aligning 10+ cross-functional teams around a unified technical vision
+- Spearheaded consolidation of 6 agentic surfaces into a headless service architecture, centralizing developer tooling for improved efficiency and performance
 
 ### Salesforce | Director of Product Design, AppExchange & Ecosystem
-*Aug 2019 – Jan 2024*
 
-Led [8] designers in reimagining the marketplace and partner ecosystem serving [5,000+] partners and [15]M+ customers.
+_Aug 2019 – Jan 2024_
 
-- Architected a modern, scalable marketplace to replace an outdated AppExchange, increasing partner sign-ups by [~60]%
-- Redesigned partner listing creation end-to-end, reducing listing time from [~3 weeks] to [~2 days]
-- Laid the foundation for a transactable marketplace with custom pricing, quotes, and private offers, enabling [~$150M+] in new transaction volume
+Led 5 designers in reimagining the marketplace and partner ecosystem serving 5,000+ partners and 150,000+ customers (companies).
+
+- Architected a modern, scalable marketplace to replace an outdated AppExchange, increasing partner sign-ups by ~60%
+- Redesigned partner listing creation end-to-end, reducing listing time from ~4 weeks to ~2 days
+- Laid the foundation for a transactable marketplace with custom pricing, quotes, and private offers, enabling a ~$50M+ target in new transaction volume this year
 
 ### Salesforce | Principal Product Designer & UX Engineer, Industries
-*Feb 2016 – Aug 2019*
+
+_Feb 2016 – Aug 2019_
 
 Joined when Industries had two pre-GA products. Shipped them to GA and stood up 10 of the 14 industry verticals that exist today. As of 2024, Industries generates $3B+ in AOV.
 
@@ -50,14 +56,16 @@ Joined when Industries had two pre-GA products. Shipped them to GA and stood up 
 - Shipped production-ready code rather than static mockups, accelerating delivery and reducing design-to-engineering handoff friction
 
 ### Slalom Consulting | UX Designer & UI Engineer
-*Apr 2012 – Feb 2016*
+
+_Apr 2012 – Feb 2016_
 
 Hybrid UX designer and front-end engineer embedded with enterprise clients: Home Depot, AT&T, Coca-Cola, Comcast, Cox Communications, Global Payments, First Bank, and Resume Builder.
 
 - Delivered end-to-end UX design and front-end engineering across 8 client engagements spanning retail, telecom, financial services, and consumer goods
 
 ### Earlier Career
-*2004 – 2012*
+
+_2004 – 2012_
 
 Visual designer, motionographer, and web developer across agency and freelance environments (JayIsCreative, White Ink Studio, Aquent, Onward Search, Star International Furniture), progressively moving from illustration into interaction design and front-end engineering.
 
