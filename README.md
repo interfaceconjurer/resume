@@ -71,16 +71,6 @@ Visual designer, motionographer, and web developer across agency and freelance e
 
 ---
 
-## Projects
-
-**Fine Tunes** | github.com/interfaceconjurer/fine-tunes
-Python wrapper for training LoRA models on custom images, producing a Flux-based image generation model in minutes. Presented at github.com/interfaceconjurer/test-kitchen.
-
-**Vibes-UI** | github.com/interfaceconjurer/vibes-ui
-Shared React component library and Storybook for an agentic chat harness. Built the entire system using AI-assisted development to drive design consistency at engineering speed.
-
----
-
 ## Skills
 
 **Languages:** HTML, CSS, JavaScript, TypeScript
