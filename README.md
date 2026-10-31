@@ -32,7 +32,7 @@ Leading UX engineering, design systems, and cross-functional alignment across th
 
 **DX Platform Architecture**
 
-- Used AI to rapidly model and validate information architecture for a governance layer spanning 50+ agentic surfaces, aligning 10+ cross-functional teams around a unified technical vision
+- Used AI to rapidly model and validate information architecture for a governance layer, aligning 10+ cross-functional teams around a unified technical vision
 - Spearheaded consolidation of 6 agentic surfaces into a headless service architecture, centralizing developer tooling for improved efficiency and performance
 
 ### Salesforce | Director of Product Design, AppExchange & Ecosystem
