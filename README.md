@@ -1,6 +1,6 @@
 # Jordan L. Wright
 
-Pittsburgh, PA | 714.624.7077 | jordan@digitalchem.ist | [digitalchem.ist](https://digitalchem.ist) | [GitHub](https://github.com/interfaceconjurer) | [LinkedIn](https://www.linkedin.com/in/jordan-l-wright-91b17321)
+714.624.7077 | jordan@digitalchem.ist | [digitalchem.ist](https://digitalchem.ist) | [GitHub](https://github.com/interfaceconjurer) | [LinkedIn](https://www.linkedin.com/in/jordan-l-wright-91b17321)
 
 ---
 
