@@ -22,7 +22,7 @@ Leading Design Engineering, design systems, and cross-functional alignment acros
 
 - Shipped the front end for Salesforce's agentic coding harness from beta through GA to ~43K+ MAU, designing interaction patterns directly in code
 - Evolved the product from basic chat into a full agentic experience, defining the UX patterns that became the internal shared library across all DX tooling
-- Used AI-assisted development to prototype a complete UX redesign in one week: 21 UI patterns and a 60+-component Storybook design system, compressing 6 months of work into days
+- Used AI-forward design principles to prototype a completely new agentic harness for Salesforce's Agentic Chat: 21 UI patterns and a 60+ component Storybook design system, compressing years of work into a month
 - Reduced time-to-first-project from ~30 minutes to under 30 seconds with a zero-friction onboarding flow spanning agents, React apps, and Apex & LWC
 
 **Application Lifecycle Management**
