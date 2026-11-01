@@ -6,7 +6,7 @@
 
 ## Summary
 
-AI-native designer and engineer with 21 years of experience shipping product at the intersection of what's desirable, viable, and technically feasible. Uses AI as a force multiplier to design and build at a speed and scope that neither discipline achieves alone, from information architecture down to production React components. Trained in representational art, self-taught in engineering, calibrated for AI.
+AI-native designer and engineer with 21 years of experience shipping product at the intersection of what's desirable, viable, and technically feasible. Uses AI as a force multiplier to design and build at a speed and scope that neither discipline achieves alone, from information architecture down to production-ready components. Trained in representational art, self-taught in engineering, calibrated for AI.
 
 ---
 
