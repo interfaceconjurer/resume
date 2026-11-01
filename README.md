@@ -16,7 +16,7 @@ AI-native designer and engineer with 21 years of experience shipping product at 
 
 _Jan 2024 – Present_
 
-Leading UX engineering, design systems, and cross-functional alignment across three product areas simultaneously.
+Leading Design Engineering, design systems, and cross-functional alignment across three product areas simultaneously.
 
 **Agentic Chat Harness**
 
