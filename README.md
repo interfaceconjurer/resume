@@ -84,4 +84,4 @@ Visual designer, motion designer, and web developer across agency and freelance 
 
 ## Education
 
-**BFA in Illustration** | Laguna College of Art and Design, 2005
+**BFA in Illustration** | Laguna College of Art and Design, California, 2005
