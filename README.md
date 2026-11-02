@@ -1,12 +1,12 @@
 # Jordan L. Wright
 
-714.624.7077 | jordan@digitalchem.ist | [digitalchem.ist](https://digitalchem.ist) | [GitHub](https://github.com/interfaceconjurer) | [LinkedIn](https://www.linkedin.com/in/jordan-l-wright-91b17321)
+jordan@digitalchem.ist | [digitalchem.ist](https://digitalchem.ist) | [GitHub](https://github.com/interfaceconjurer) | [LinkedIn](https://www.linkedin.com/in/jordan-l-wright-91b17321)
 
 ---
 
 ## Summary
 
-AI-native designer and engineer with 21 years of experience shipping product at the intersection of what's desirable, viable, and technically feasible. Uses AI as a force multiplier to design and build at a speed and scope that neither discipline achieves alone, from information architecture down to production-ready components. Trained in representational art, self-taught in engineering, calibrated for AI.
+AI-native designer and engineer with 21 years of experience shipping product at the intersection of what's desirable, viable, and technically feasible. Designs and builds at a speed and scope neither discipline reaches alone, from information architecture down to production-ready components. Trained in representational art, self-taught in engineering, calibrated for AI.
 
 ---
 
@@ -16,43 +16,43 @@ AI-native designer and engineer with 21 years of experience shipping product at 
 
 _Jan 2024 – Present_
 
-Leading Design Engineering, design systems, and cross-functional alignment across three product areas simultaneously.
+Leading design engineering, design systems, and cross-functional alignment across three product areas.
 
 **Agentic Chat Harness**
 
-- Shipped the front end for Salesforce's agentic coding harness from beta through GA to ~43K+ MAU, designing interaction patterns directly in code
-- Evolved the product from basic chat into a full agentic experience, defining the UX patterns that became the internal shared library across all DX tooling
-- Used AI-forward design principles to prototype a completely new paradigm for Salesforce's Agentic Chat: 21 UI patterns and a 60+ component Storybook design system, compressing years of work into a month
+- Shipped the front end for Agentforce Vibes, Salesforce's agentic chat harness, from beta through GA to 43K+ MAU, designing interaction patterns directly in code
+- Evolved the product from basic chat into a full agentic experience, defining the UX patterns that became the shared component library across DX tooling
+- Prototyped a new interaction paradigm for agentic chat using AI-driven design-to-code: 21 UI patterns and a 60+ component Storybook design system, compressing years of work into a month
 - Reduced time-to-first-project from ~30 minutes to under 30 seconds with a zero-friction onboarding flow spanning agents, React apps, and Apex & LWC
 
 **Application Lifecycle Management**
 
-- Integrated DevOps Center with the agentic IDE through CI/CD tooling, skills, and hooks, eliminating context-switching across ~8 core developer workflows
-- Championed React as a first-class platform framework, expanding the available developer talent pool to 3–5 million beyond Lightning Web Component specialists
+- Integrated Lifecycle Center (formerly DevOps Center) with the agentic IDE through CI/CD tooling, skills, and hooks, eliminating context-switching across ~8 core developer workflows
+- Championed React as a first-class platform framework, opening Salesforce development to an estimated 3–5M React developers beyond LWC specialists
 
 **DX Platform Architecture**
 
-- Used AI to rapidly model and validate information architecture for a governance layer, aligning 10+ cross-functional teams around a unified technical vision
-- Spearheaded consolidation of 6 agentic surfaces into a headless service architecture, centralizing developer tooling for improved efficiency and performance
+- Modeled and validated, with AI, the information architecture for a governance layer across agentic surfaces, aligning 10+ cross-functional teams around a unified technical vision
+- Spearheaded consolidation of 6 agentic surfaces into a headless service architecture, centralizing developer tooling
 
 ### Salesforce | Director of Product Design, AppExchange & Ecosystem
 
 _Aug 2019 – Jan 2024_
 
-Led 5 designers in reimagining the marketplace and partner ecosystem serving 5,000+ partners and 150,000+ customers (companies).
+Led 5 designers in reimagining the marketplace and partner ecosystem serving 5,000+ partners and 150,000+ customer companies.
 
 - Architected a modern, scalable marketplace to replace an outdated AppExchange, increasing partner sign-ups by ~60%
 - Redesigned partner listing creation end-to-end, reducing listing time from ~4 weeks to ~2 days
-- Laid the foundation for a transactable marketplace with custom pricing, quotes, and private offers, enabling a ~$50M+ target in new transaction volume this year
+- Laid the foundation for a transactable marketplace with custom pricing, quotes, and private offers, enabling a $50M+ target in new transaction volume
 
 ### Salesforce | Principal Product Designer & UX Engineer, Industries
 
 _Feb 2016 – Aug 2019_
 
-Joined when Industries had two pre-GA products. Shipped them to GA and stood up 10 of the 14 industry verticals that exist today. As of 2024, Industries generates $3B+ in AOV.
+Helped grow Industries from two pre-GA products to 10 of the 14 industry verticals that exist today. As of 2024, Industries generates $3B+ in AOV.
 
 - Drove Industries' first two products from pre-GA to general availability, establishing design and front-end patterns that scaled across subsequent verticals
-- Designed and engineered UI for 10 industry-specific products, from UX research through production React components
+- Designed and engineered UI for 10 industry-specific products, from UX research through production-ready components
 - Shipped production-ready code rather than static mockups, accelerating delivery and reducing design-to-engineering handoff friction
 
 ### Slalom Consulting | UX Designer & UI Engineer
@@ -67,7 +67,7 @@ Hybrid UX designer and front-end engineer embedded with enterprise clients: Home
 
 _2004 – 2012_
 
-Visual designer, motionographer, and web developer across agency and freelance environments (JayIsCreative, White Ink Studio, Aquent, Onward Search, Star International Furniture), progressively moving from illustration into interaction design and front-end engineering.
+Visual designer, motion designer, and web developer across agency and freelance environments (JayIsCreative, White Ink Studio, Aquent, Onward Search, Star International Furniture), progressively moving from illustration into interaction design and front-end engineering.
 
 ---
 
@@ -77,7 +77,7 @@ Visual designer, motionographer, and web developer across agency and freelance e
 **Frameworks:** React, Storybook, Lightning Web Components
 **Platforms:** Salesforce, Heroku, GitHub, Vercel
 **Design:** Figma, FigJam, Design Systems, Prototyping, Information Architecture, UX Research
-**Practices:** UX Engineering, Agile, CI/CD, Developer Tools, AI-Assisted Development
+**Practices:** Design Engineering, Agile, CI/CD, Developer Tools, AI-Native Development
 **AI & ML:** Claude Code, LoRA Model Training, Prompt Engineering, Concept-to-Code Workflows
 
 ---
