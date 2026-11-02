@@ -1,6 +1,6 @@
 # Jordan L. Wright
 
-jordan@digitalchem.ist | [digitalchem.ist](https://digitalchem.ist) | [GitHub](https://github.com/interfaceconjurer) | [LinkedIn](https://www.linkedin.com/in/jordan-l-wright-91b17321)
+jordan@digitalchem.ist | [jordanwright.codes](https://jordanwright.codes) | [GitHub](https://github.com/interfaceconjurer) | [LinkedIn](https://www.linkedin.com/in/jordan-l-wright-91b17321)
 
 ---
 
